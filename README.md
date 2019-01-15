@@ -7,4 +7,4 @@ the [Mozilla Things Gateway](https://iot.mozilla.org).
 More examples will be added over time. Submit your own project example or post ideas and requests 
 on the "issues" list.
 
-
+Check out the LED example in action on [YouTube](https://www.youtube.com/watch?v=V2nA6ryV_qY&feature=youtu.be).
